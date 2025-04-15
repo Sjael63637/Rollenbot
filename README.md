@@ -1,1 +1,1 @@
-Dies ist mein Rollenbot
+Dies ist mein Werwolf Rollenbot
